@@ -1,2 +1,0 @@
-# introduction-C-
-introduction C#
